@@ -2,4 +2,4 @@
 ###### also known as Syntoxine
 ***
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; background-size: 16px; background-repeat: repeat; width: 130vw; opacity: 0.5; background: url('https://github.com/Syntoxine/Syntoxine/blob/2a9246333dedacdd1de276a91fb12b2f41057c5a/dirt-texture.png');]{x0000}$}
+\ce{$\unicode[goombafont; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 130vw; background-color: #61acfd;]{x0000}$}
